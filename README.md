@@ -1,4 +1,4 @@
-# NeverCrash
+iii# NeverCrash
 [![Download](https://img.shields.io/badge/download-App-blue.svg)](https://raw.githubusercontent.com/jenly1314/NeverCrash/master/app/app-release.apk)
 [![](https://jitpack.io/v/jenly1314/NeverCrash.svg)](https://jitpack.io/#jenly1314/NeverCrash)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/mit-license.php)
@@ -94,5 +94,6 @@ public class App extends Application {
    
    加入QQ群: [20867961](http://shang.qq.com/wpa/qunwpa?idkey=8fcc6a2f88552ea44b1411582c94fd124f7bb3ec227e2a400dbbfaad3dc2f5ad)
    
-   
+## README
+   The project is for crash hand
    
